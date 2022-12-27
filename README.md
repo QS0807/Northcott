@@ -1,0 +1,2 @@
+# Northcott
+ Nim variant game
